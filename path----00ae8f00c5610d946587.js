@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{99:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Scott Anderson",description:"Full stack developer",url:"https://www.scottandersononline.com",keywords:"full stack, product enginner, portfolio, personal website"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----00ae8f00c5610d946587.js.map
