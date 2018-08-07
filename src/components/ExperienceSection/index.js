@@ -25,7 +25,7 @@ class ExperienceSection extends React.Component {
             title='Oracle Corporation'
             link='https://www.oracle.com/'
             timeperiod='2001 - 2017'
-            subtitle='Various leadership roles in the pre-sales technology teams, including Customer Success for the Oracle Public Cloud.'
+            subtitle='Various leadership roles across pre-sales technology teams, including Customer Success for the Oracle Public Cloud.'
           />
           <ExperienceUnit
             logo={extrapriseLogo}
