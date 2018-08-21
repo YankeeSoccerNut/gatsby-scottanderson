@@ -33,7 +33,7 @@ class ProjectsSection extends React.Component {
             title="Meter Miser"
             link="https://github.com/YankeeSoccerNut/MeterMiser_v2"
             timeperiod="2017"
-            subtitle="An IoT application with SMS integtration to help small business owners manage heating and cooling costs."
+            subtitle="An IoT application with SMS integration to help small business owners manage heating and cooling costs."
           />
         </div>
       </Section>
