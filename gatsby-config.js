@@ -22,6 +22,6 @@ module.exports = {
     title: 'Scott Anderson',
     description: 'Full stack developer',
     keywords: 'full stack, product enginner, portfolio, personal website',
-    url: 'https://www.scottandersononline.com'
+    url: 'https://yankeesoccernut.github.io/gatsby-scottanderson/'
   }
 };
